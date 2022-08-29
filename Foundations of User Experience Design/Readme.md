@@ -23,3 +23,13 @@
 - [ ] Focus on what it feels like for a user to move through a product.
 - [ ] Focus on translating the design’s intent into a functioning experience. 
 - [ ] Focus on the experience of a product and how it functions.
+
+
+### What are some qualities in a product that make a good user experience? Select all that apply.
+
+The product is usable.
+
+- [X] Usable products are easier to use for everyone.
+- [ ] The product is useful.
+- [ ] The product is complex.
+- [ ] The product is equitable.
