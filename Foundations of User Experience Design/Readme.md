@@ -20,12 +20,6 @@
 
 
 - [X] Focus on how a product or technology looks.
-
-
 - [] Focus on what it feels like for a user to move through a product.
-
-
-- [] Focus on translating the design’s intent into a functioning experience.
-
-
- - [] Focus on the experience of a product and how it functions.
+- [] Focus on translating the design’s intent into a functioning experience. 
+- [] Focus on the experience of a product and how it functions.
