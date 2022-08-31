@@ -1,6 +1,6 @@
 
 ### Fill in the blank: The user experience is _____.
-
+ 
 
 - [ ] the framework of a website or how it’s organized, categorized, or structured
 - [ ] the ability to understand someone else’s feelings or thoughts in a situation
