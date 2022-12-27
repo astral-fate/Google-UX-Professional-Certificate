@@ -16,7 +16,7 @@
 
 ## Foundations of User Experience (UX) Design
 
-## Start the UX Design Process: Empathize, Define, and Ideate
+## Start the UX Design Process: Empathize Define and Ideate
 ## Build Wireframes and Low-Fidelity Prototypes
 ## Conduct UX Research and Test Early Concepts
 ## Create-High-Fidelity-Designs-and-Prototypes-in-Figma
