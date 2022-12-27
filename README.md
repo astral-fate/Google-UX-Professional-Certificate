@@ -5,7 +5,7 @@
 ## Table of content
 
 1. [Foundations-of-User-Experience-(UX)-Design](#Foundations-of-User-Experience-(UX)-Design)
-2. [Start-the-UX-Design-Process:-Empathize-Define,-and-Ideate](#Start-the-UX-Design-Process:-Empathize-Define-and-Ideate)
+2. [Start-the-UX-Design-Process:-Empathize-Define-and-Ideate](#Start-the-UX-Design-Process:-Empathize-Define-and-Ideate)
 3. [Build-Wireframes-and-Low-Fidelity-Prototypes](#Build-Wireframes-and-Low-Fidelity-Prototypes)
 4. [Conduct-UX-Research-and-Test-Early-Concepts](#Conduct-UX-Research-and-Test-Early-Concepts)
 5. [Create-High-Fidelity-Designs-and-Prototypes-in-Figma](#Create-High-Fidelity-Designs-and-Prototypes-in-Figma)
