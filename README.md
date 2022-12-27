@@ -1,6 +1,6 @@
 # Google-UX-Professional-Certificate
 
-# TM366-Artificial-Intelligence
+
 
 ## Table of content
 
