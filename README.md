@@ -10,7 +10,7 @@
 4. [Conduct-UX-Research-and-Test-Early-Concepts](#Conduct-UX-Research-and-Test-Early-Concepts)
 5. [Create-High-Fidelity-Designs-and-Prototypes-in-Figma](#Create-High-Fidelity-Designs-and-Prototypes-in-Figma)
 6. [Responsive-Web-Design-in-Adobe-XD](#Responsive-Web-Design-in-Adobe-XD)
-7. [Design a User Experience for Social Good & Prepare for Jobs](#Design a User Experience for Social Good & Prepare for Jobs)
+7. [Design-a-User-Experience-for-Social-Good-&-Prepare-for-Jobs](#Design-a-User-Experience-for-Social-Good-&-Prepare-for-Jobs)
 
 
 
